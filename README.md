@@ -1,9 +1,9 @@
 # Fare Calculator
 
-# # Description
+## Description
 This program calculates the fare rate of a travel destination using the distance(km) and number of passengers.
 
-##  “Version 1 – Original code without input validation" 
+##  “Version 2 – Updated code with input validation" 
 
 ## Input Needed: 
 -name
@@ -21,3 +21,6 @@ Enter name: Genine
 Enter distance(km): 6
 Enter number of passengers: 20
 The total fare rate is: 1680.0
+
+
+
